@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    font-weight: 300;
+}
+h1 {
+    margin-left: 10px;
+}
+h1, h2, p {
+    color: orange;
+}
+footer {
+    margin-top: auto;
+    font-size: large;
+    margin-left: 5px;
+}
+
+#container {
+    padding: 20px;
+    width: 200px;
+    margin: 10px;  
+    margin-right: 50px;
+}
+#logout {
+    margin: 20px;
+    width: 80px;
+    height: 30px;
+}
+
+#demo {
+    width: 100%;
+    font-size: x-large;
+    color: orange;
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+#signup {
+    padding: 20px;
+    max-width: 300px;
+    margin: 10px;  
+    width: fit-content; 
+    
+}
+
